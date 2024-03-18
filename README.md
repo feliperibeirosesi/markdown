@@ -5,3 +5,6 @@
 ## curso: CT Desenvolvimento de Sistemas - turma I1HN _ SESI Nova Odessa
 
 _money money_ **green green** ***money*** is only i ~~NEED NEED~~
+
+### modificação para exemplo de comit pelo GitHub 
+#### tudo permanece onde você deixou
